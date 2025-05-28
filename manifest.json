@@ -1,9 +1,9 @@
 {
     "name": "Lab8_Starter",
     "short_name": "Jonathan",
-    "description": "",
-    "start_url": "http://127.0.0.1:5501/index.html",
-    "display": "browser",
+    "description": "Lord help",
+    "start_url": "./index.html",
+    "display": "fullscreen",
     "background_color": "yellow",
     "theme_color": "green",
     "icons": [
