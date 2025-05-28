@@ -1,8 +1,8 @@
 {
     "name": "Lab8_Starter",
-    "short_name": "Jonathan and Cody",
+    "short_name": "Jonathan",
     "description": "",
-    "start_url": "",
+    "start_url": "http://127.0.0.1:5501/index.html",
     "display": "browser",
     "background_color": "yellow",
     "theme_color": "green",
@@ -27,7 +27,6 @@
         "sizes": "512x512",
         "type": "image/png"
       }
-
     ]
   }
   
