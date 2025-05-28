@@ -52,7 +52,7 @@ self.addEventListener('fetch', function (event) {
         return cachedResponse;
       }
     return fetch(event.request).then(function (networkResponse) {
-        cache.put(event.request, fetchedResponse.clone());
+        cache.put(event.request, networkResponse.clone());
         return networkResponse;
          });
       });
